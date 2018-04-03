@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MattMCloudy/MobiAlexaDemo/issues"
   },
-  "homepage": "https://github.com/MattMCloudy/MobiAlexaDemo#readme"
+  "homepage": "https://github.com/MattMCloudy/MobiAlexaDemo#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
 }
