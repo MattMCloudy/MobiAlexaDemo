@@ -1,0 +1,19 @@
+{
+  "name": "alexa_demo",
+  "version": "1.0.0",
+  "description": "A demo of Alexa for Mobi 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattMCloudy/MobiAlexaDemo.git"
+  },
+  "author": "Matt McLeod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattMCloudy/MobiAlexaDemo/issues"
+  },
+  "homepage": "https://github.com/MattMCloudy/MobiAlexaDemo#readme"
+}
